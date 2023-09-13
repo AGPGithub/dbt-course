@@ -2,3 +2,7 @@
 target/
 dbt_packages/
 logs/
+models/.DS_Store
+models/marts/.DS_Store
+models/staging/.DS_Store
+models/.DS_Store
